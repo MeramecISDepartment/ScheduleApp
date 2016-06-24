@@ -8,5 +8,6 @@ namespace ScheduleApp
 {
     class Class1
     {
+        //This is a comment.
     }
 }
